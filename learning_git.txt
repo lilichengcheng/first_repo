@@ -1,0 +1,5 @@
+#### Learning git
+
+**Today is wednesday! We have a bioinfo class.**
+
+*hello bioinfo!*
